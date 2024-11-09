@@ -6,7 +6,7 @@ models:
     columns:
       - name: c_custkey
         data_type: number
-        description: ""
+        description: "Hola esto es una prueba para la documentación"
 
       - name: c_name
         data_type: varchar
